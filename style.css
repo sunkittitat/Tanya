@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 body {
   height: 100vh;
@@ -180,7 +180,7 @@ body {
 }
 
 .text:hover:before {
-  content:"Be mine this Valentine’s? ";
+  content:"Let's go on a date";
   font-size:25px;
   font-weight: 400;
   
